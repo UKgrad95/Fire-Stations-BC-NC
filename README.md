@@ -8,5 +8,5 @@
 ### Scale: 1:250,000
 ### Date: June 16, 2020
 ## Resource websites
-https://www.brunswickcountync.gov/emergency/fire-departments/
-http://fdmaps.com/brunswick-county/
+#### https://www.brunswickcountync.gov/emergency/fire-departments/
+#### http://fdmaps.com/brunswick-county/
