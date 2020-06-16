@@ -1,0 +1,8 @@
+{
+    "title": "Fire, Rescue & EMS Locations in Brunswick County, North Carolina",
+    "info": "This map shows the distribution of all Fire, Rescue & EMS Department Station locations in Brunswick County, North Carolina.  This data was developed by researching the Brunswick County Website for list of Fire Departments.
+    and this was crossed referrenced with the North Carolina Fire Station Mapping Project. Locations were also confirmed via searching Google Maps..", 
+    "coordinates": [34.0, -78.0],
+    "author": "Sean Stewart", 
+    "link": "https://github.com/UKgrad95/Fire-Stations-BC-NC" 
+}
